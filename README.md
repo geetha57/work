@@ -14,5 +14,5 @@ When the button is clicked, a new window appears showing the message **"Clicked"
 
 
 
- Screenshot
+ 
 
